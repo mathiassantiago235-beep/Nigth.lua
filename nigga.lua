@@ -1176,4 +1176,4 @@ end
 preloadKeybinds()
 buildGui()
 loadConfig()
-print("Nigth hub loaded")
+print("Cursedhub loaded")
