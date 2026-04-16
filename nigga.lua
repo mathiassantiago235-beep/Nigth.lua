@@ -481,4 +481,5 @@ end
 local function runDrop()
 	if dropActive then return end
 	local char = LP.Character;if not char then return end
-	local hrp = char:FindFirstChild("HumanoidRoo
+	local hrp = char:FindFirstChild("HumanoidRootPart")
+	
